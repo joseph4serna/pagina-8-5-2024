@@ -1,0 +1,15 @@
+.logo{
+  background-color: cyan;
+        height: 300px;
+width:1400px ;
+font-size: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(235, 0, 0);
+    text-align: center;
+}
+.menu{
+    background-color: orange;
+    height: 100px;;
+    width: 200% ;
+   
+}
