@@ -36,17 +36,18 @@ display: flex;
 .izquierdo{
    background-color: rgb(255, 255, 72);
    width: 250px;
-   height: 2300px;
+ height: 3500px;
+
 }
 .centro{
    background-color: palegreen;
     width: 1400px; ;
-height: 2300px;
+height: 3500px;
 
 }
 .derecho{
     width: 250px;
-    height: 2300px;
+    height: 3500px;
 background-color: rgb(255, 255, 72);
 }
 p{
@@ -67,6 +68,21 @@ text-align: center;
 }
 .jhon{
 background-image: url("jhon.png");  
-height: 350px;
+height: 500px;
 width: 559;
+background-repeat: no-repeat;
+
+
+}
+.perio{
+  background-image: url("perio.png");
+  height: 650px;
+  width: 1000px;
+background-repeat: no-repeat;
+}
+.qui{
+  background-image: url("qui.png");
+  height: 650px;
+  width: 1000px;
+  background-repeat: no-repeat;
 }
