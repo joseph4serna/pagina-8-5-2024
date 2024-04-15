@@ -42,6 +42,7 @@ display: flex;
    background-color: palegreen;
     width: 1400px; ;
 height: 2300px;
+
 }
 .derecho{
     width: 250px;
@@ -63,4 +64,9 @@ text-align: center;
   background-image: url("democracia.png");
   height: 350px;
   width: 650px;
+}
+.jhon{
+background-image: url("jhon.png");  
+height: 350px;
+width: 559;
 }
