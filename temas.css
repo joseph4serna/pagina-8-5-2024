@@ -36,18 +36,18 @@ display: flex;
 .izquierdo{
    background-color: rgb(255, 255, 72);
    width: 250px;
- height: 3500px;
+ height: 5000px;
 
 }
 .centro{
    background-color: palegreen;
     width: 1400px; ;
-height: 3500px;
+height: 5000px;
 
 }
 .derecho{
     width: 250px;
-    height: 3500px;
+    height: 5000px;
 background-color: rgb(255, 255, 72);
 }
 p{
@@ -94,6 +94,18 @@ background-repeat: no-repeat;
 }
 .reno{
   background-image: url("reno.png");
+  height: 650px;
+  width: 1000px;
+  background-repeat: no-repeat;
+}
+.no{
+  background-image: url("no.png");
+  height: 650px;
+  width: 1000px;
+  background-repeat: no-repeat;
+}
+.oseo{
+  background-image: url("oseo.png");
   height: 650px;
   width: 1000px;
   background-repeat: no-repeat;
