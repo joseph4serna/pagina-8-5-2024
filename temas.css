@@ -86,3 +86,15 @@ background-repeat: no-repeat;
   width: 1000px;
   background-repeat: no-repeat;
 }
+.fue{
+  background-image: url("ener.png");
+  height: 650px;
+  width: 1000px;
+  background-repeat: no-repeat;
+}
+.reno{
+  background-image: url("reno.png");
+  height: 650px;
+  width: 1000px;
+  background-repeat: no-repeat;
+}
