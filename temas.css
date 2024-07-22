@@ -14,7 +14,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 display: flex;
 }
 .boton{
-  background-color: orangered;
+background-color: coral;
     height: 100px;
     width: 100px;
     margin: 1.5px;
